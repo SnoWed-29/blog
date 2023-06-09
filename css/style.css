@@ -1,0 +1,25 @@
+.header {
+    background-image: url("../media/header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid lightblue;
+}
+.headerLogin{
+    background: #ffffffb3;
+    border-radius: 5px;
+}
+.headerDesc{
+    height: fit-content;
+    width: fit-content;
+    background: #ffffffb3;
+}
+.loginForm{
+    background: #fff;
+}
+.comment {
+    margin-bottom: 10px;
+  }
